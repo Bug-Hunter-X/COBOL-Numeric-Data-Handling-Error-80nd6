@@ -1,0 +1,1 @@
+This repository demonstrates a common error in COBOL programs related to numeric data handling. The 'bug.cob' file contains code that exhibits this issue, leading to potentially incorrect comparisons and output. The solution, provided in 'bugSolution.cob', addresses this problem by using appropriate data type handling techniques.
